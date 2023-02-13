@@ -1,0 +1,24 @@
+{
+  "newsWebsite": [
+    "https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key=",
+    "https://content.guardianapis.com/search?api-key="
+  ],
+  "articleUrl": [
+    "https://www.theguardian.com/football/2023/feb/11/graham-potter-in-good-save-barb-after-chelseas-draw-at-west-ham",
+    "https://www.theguardian.com/football/live/2023/feb/11/west-ham-v-chelsea-premier-league-live-score-updates",
+    "https://www.nytimes.com/2023/02/12/world/europe/fox-hunting-warwickshire-england.html",
+    "https://www.nytimes.com/2023/02/12/pageoneplus/quotation-of-the-day-stolen-chances-that-preceded-an-nfl-first.html",
+    "https://www.nytimes.com/2023/02/12/insider/a-spy-balloon-and-a-reporting-trip-to-china.html"    
+  ],
+  "headline": [
+    "Chelsea’s collection of wonderkids yet to click but it’s fun to watch the chaos",
+    "Manchester City 2-1 Arsenal: Women’s Super League – as it happened",
+    "A Spy Balloon and a Reporting Trip to China, Up in the Air",
+    "West Ham 1-1 Chelsea: Premier League – as it happened",
+    "Pierre-Emerick Aubameyang has future with Chelsea, insists Graham Potter"   
+  ],
+  "totalPages": 29103,
+  "searchKeyword": "query = null, section = football, tag = null, fromDate = null, toDate = null, page = 3, orderBy = null",
+  "pageNo": 3,
+  "latency": 581818600
+}
